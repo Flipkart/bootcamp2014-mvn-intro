@@ -1,2 +1,5 @@
 lib/target/
 user/target/
+*.ipr
+*.iml
+*.iws
